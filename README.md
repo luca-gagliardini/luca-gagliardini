@@ -1,7 +1,7 @@
 # Hello, I'm Luca
 ![Horizontal picture of Fuji](./img/Fuji_cut.jpg)
 
-> I'm a French programmer in Tokyo.
+> **I'm a French programmer in Tokyo.**
 
 I used to work as a **JP-FR-ENG localizer**.
 
@@ -13,4 +13,4 @@ Then I started doing it for my team. Then I was doing it full-time for my compan
 
 Now that I'm hooked, I want to move to the next challenge and help develop great projects.
 
-> Here is my [portfolio](https://luca-gagliardini.github.io/) to know more.
+> **Here is my [portfolio](https://luca-gagliardini.github.io/) to know more.**
